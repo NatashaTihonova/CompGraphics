@@ -1,0 +1,43 @@
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\bin\Release\CornellRoom.exe.config
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\bin\Release\CornellRoom.exe
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\bin\Release\CornellRoom.pdb
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\MainWindow.g.cs
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\App.g.cs
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom_MarkupCompile.cache
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom_MarkupCompile.lref
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\MainWindow.baml
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom.g.resources
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom.Properties.Resources.resources
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom.csproj.GenerateResource.cache
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom.csproj.CoreCompileInputs.cache
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom.exe
+D:\Education\7 семестр\КГ\CornellRoom\CornellRoom\obj\Release\CornellRoom.pdb
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\bin\Release\CornellRoom.exe.config
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\bin\Release\CornellRoom.exe
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\bin\Release\CornellRoom.pdb
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\MainWindow.g.cs
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\App.g.cs
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom_MarkupCompile.cache
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom_MarkupCompile.lref
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\MainWindow.baml
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.g.resources
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.Properties.Resources.resources
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.exe
+C:\Users\user\Desktop\Универ\PRG\CG\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.pdb
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\bin\Release\CornellRoom.exe.config
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\bin\Release\CornellRoom.exe
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\bin\Release\CornellRoom.pdb
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.csprojAssemblyReference.cache
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\MainWindow.g.cs
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\App.g.cs
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom_MarkupCompile.cache
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom_MarkupCompile.lref
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\MainWindow.baml
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.g.resources
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.Properties.Resources.resources
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.csproj.GenerateResource.cache
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.exe
+C:\Users\111\Downloads\графика\CornellRoom\CornellRoom\CornellRoom\obj\Release\CornellRoom.pdb
